@@ -1,0 +1,11 @@
+input/
+
+output/
+
+.vscode
+
+*.iml
+
+.idea/
+
+*.pyc
